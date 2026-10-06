@@ -5,14 +5,14 @@ export default function Home() {
       <section className="flex flex-col items-center justify-center min-h-screen px-6 text-center">
         <div className="max-w-4xl">
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 animate-fade-in">
-            Hi, I'm <span className="bg-gradient-to-r from-blue-400 to-purple-600 bg-clip-text text-transparent">Your Name</span>
+            Hi, I&apos;m <span className="bg-gradient-to-r from-blue-400 to-purple-600 bg-clip-text text-transparent">Your Name</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8">
             Full Stack Developer | Designer | Problem Solver
           </p>
           <p className="text-lg text-gray-400 mb-12 max-w-2xl mx-auto">
             I create beautiful, functional, and user-centered digital experiences. 
-            Let's build something amazing together.
+            Let&apos;s build something amazing together.
           </p>
           <div className="flex flex-wrap gap-4 justify-center">
             <a 
@@ -72,9 +72,9 @@ export default function Home() {
       {/* Contact Section */}
       <section id="contact" className="py-20 px-6 bg-gray-800/50">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-4xl font-bold text-white mb-6">Let's Connect</h2>
+          <h2 className="text-4xl font-bold text-white mb-6">Let&apos;s Connect</h2>
           <p className="text-xl text-gray-300 mb-8">
-            I'm always open to new opportunities and interesting projects.
+            I&apos;m always open to new opportunities and interesting projects.
           </p>
           <div className="flex flex-wrap gap-6 justify-center">
             <a href="mailto:your.email@example.com" className="text-blue-400 hover:text-blue-300 text-lg">
