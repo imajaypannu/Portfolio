@@ -5,7 +5,7 @@ export default function Home() {
       <section className="flex flex-col items-center justify-center min-h-screen px-6 text-center">
         <div className="max-w-4xl">
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 animate-fade-in">
-            Hi, I&apos;m <span className="bg-gradient-to-r from-blue-400 to-purple-600 bg-clip-text text-transparent">Your Name</span>
+            Hi, I&apos;m <span className="bg-gradient-to-r from-blue-400 to-purple-600 bg-clip-text text-transparent">Ajay Pannu</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8">
             Full Stack Developer | Designer | Problem Solver
